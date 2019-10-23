@@ -1,0 +1,6 @@
+mymathlab_url: 'https://www.pearsonmylabandmastering.com/northamerica/mymathlab/'
+symbolab_url: 'https://www.symbolab.com/'
+username: 'someone@example.edu'
+password: 'password123'
+geckodriver_path: 'geckodriver'
+class: 'Calculus A'
